@@ -7,3 +7,7 @@ Izmantoju pamatā tikai openpyxl, lai varētu iegūt datus no excel failiem (kur
 
 ## Izmantošanas metodes
 Šī programma izmanto tikai noteikta veida excel pamatni, kas satur informāciju par dažādu ēku parametriem. Šī informācija tiek apstrādā un tā tiks izmantota, lai uzzinātu, kuras konstrukcijas konkrētajā brīdi balstoties uz konkrētajām būvmateriālu cenām no viena piegādātāja ir izdevīgākas.
+
+## Video
+
+https://youtu.be/pSoEZj5ztUI
